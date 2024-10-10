@@ -1,12 +1,3 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-
 <h1>Comedy Attic </h1>
 
  ### [🎦 Gameplay](https://www.youtube.com/watch?v=AlaLt6eQ00w)
