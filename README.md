@@ -51,9 +51,3 @@ A more detailed description of the game mechanics is available on the [Itch.io s
 ![image](https://github.com/user-attachments/assets/12a4c567-1f65-41ed-9ef2-f8eb143e9f35)
 
 ![image](https://github.com/user-attachments/assets/b5e39fe0-16a3-42fd-884b-07c9377e8910)
-
-
-<h2>What im proud of</h2>
-<b> - made a game in limited time</b>
-<b> - first strategic game</b>
-<b> - weird/scary concept </b>
