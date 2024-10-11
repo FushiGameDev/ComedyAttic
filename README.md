@@ -44,11 +44,10 @@ A more detailed description of the game mechanics is available on the [Itch.io s
 🔵 There's still a lot of work and improvement ahead of me.  
 🔵 The importance of using interfaces in programming.  
 
-
 <h2>Screenshots:</h2>
 
-![image](https://github.com/user-attachments/assets/6c4da470-30ab-44ef-9605-12e10461d7d6)
-
-![image](https://github.com/user-attachments/assets/12a4c567-1f65-41ed-9ef2-f8eb143e9f35)
-
-![image](https://github.com/user-attachments/assets/b5e39fe0-16a3-42fd-884b-07c9377e8910)
+<p align="center" width="100%">
+    <img width="31%" src="https://github.com/user-attachments/assets/12a4c567-1f65-41ed-9ef2-f8eb143e9f35">
+    <img width="31%" src="https://github.com/user-attachments/assets/6c4da470-30ab-44ef-9605-12e10461d7d6">
+    <img width="31%" src="https://github.com/user-attachments/assets/b5e39fe0-16a3-42fd-884b-07c9377e8910">
+</p>
